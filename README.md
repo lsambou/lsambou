@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lsambou
 - 👀 I’m interested in JavaScript, UX/UI, Python
-- 🌱 I’m currently learning JavaScript & Python. Software Engineer Intern @3DS
-- 💞️ I’m looking for job proposals for FullStack Web Developpement, especially in Switzerland.
+- 🌱 I’m currently FullStack Developper in a great team in 🇨🇭
 - 📫 How to reach me occulusweb@gmail.com
 
 <!---
