@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lsambou
-- 👀 I’m interested in JavaScript, UX/UI, Python
+- 👀 I’m interested in JavaScript/TypeScript, NodeJs, UX/UI, Python
 - 🌱 I’m a growing Full Stack Developper in a great team in 🇨🇭
 - 📫 How to reach me occulusweb@gmail.com
 
